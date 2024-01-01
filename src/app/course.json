@@ -1,0 +1,238 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "kursus": [
+    {
+      "id": 1,
+      "name": "CSS Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Web Development",
+      "status": "populer"
+    },
+
+    {
+      "id": 2,
+      "name": "CSS Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Web Development",
+      "status": "populer"
+    },
+
+    {
+      "id": 3,
+      "name": "CSS Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Web Development",
+      "status": "populer"
+    },
+
+    {
+      "id": 4,
+      "name": "CSS Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Web Development",
+      "status": "populer"
+    },
+
+    {
+      "id": 5,
+      "name": "Digital Marketing",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Web Development",
+      "status": "populer"
+    },
+
+    {
+      "id": 6,
+      "name": "Digital Marketing",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Digital Marketing",
+      "status": "aktif"
+    },
+
+    {
+      "id": 7,
+      "name": "Digital Marketing",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Digital Marketing",
+      "status": "aktif"
+    },
+
+    {
+      "id": 8,
+      "name": "Digital Marketing",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Digital Marketing",
+      "status": "aktif"
+    },
+
+    {
+      "id": 9,
+      "name": "Graphic Design",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Graphic Design",
+      "status": "aktif"
+    },
+
+    {
+      "id": 10,
+      "name": "Graphic Design",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Graphic Design",
+      "status": "aktif"
+    },
+
+    {
+      "id": 11,
+      "name": "Graphic Design",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Graphic Design",
+      "status": "aktif"
+    },
+
+    {
+      "id": 12,
+      "name": "Graphic Design",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Graphic Design",
+      "status": "aktif"
+    },
+
+    {
+      "id": 13,
+      "name": "HTML Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Self Development",
+      "status": "aktif"
+    },
+
+    {
+      "id": 14,
+      "name": "JavaScript",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Self Development",
+      "status": "aktif"
+    },
+
+    {
+      "id": 15,
+      "name": "CSS Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Self Development",
+      "status": "aktif"
+    },
+
+    {
+      "id": 16,
+      "name": "Data Base",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Self Development",
+      "status": "draft"
+    },
+
+    {
+      "id": 17,
+      "name": "Microsoft Word",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Microsoft Excel",
+      "status": "draft"
+    },
+
+    {
+      "id": 18,
+      "name": "Microsoft Word",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Microsoft Excel",
+      "status": "draft"
+    },
+
+    {
+      "id": 19,
+      "name": "Microsoft Word",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Microsoft Excel",
+      "status": "draft"
+    },
+
+    {
+      "id": 20,
+      "name": "Data Base",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "Microsoft Excel",
+      "status": "draft"
+    },
+
+    {
+      "id": 21,
+      "name": "HTML Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "UI/UX Design",
+      "status": "draft"
+    },
+
+    {
+      "id": 22,
+      "name": "JavaScript",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "UI/UX Design",
+      "status": "draft"
+    },
+
+    {
+      "id": 23,
+      "name": "CSS Introduction",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "UI/UX Design",
+      "status": "draft"
+    },
+
+    {
+      "id": 24,
+      "name": "Data Base",
+      "image": "@/assets/icons/thumbnail.png",
+      "price": "Rp 150.000",
+      "category": "UI/UX Design",
+      "status": "draft"
+    }
+  ]
+}
