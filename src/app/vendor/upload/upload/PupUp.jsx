@@ -13,7 +13,7 @@ export default function PopUp({ isOpenPopUp, closePopUp }) {
           <div className={`w-80 md:w-96 p-5 flex flex-col items-center justify-center bg-white border rounded absolute top-1/3 lg:ms-10 z-10 `}>
             <FaRegCircleCheck className="text-2xl mb-1" />
             <h3 className="font-bold text-2xl">Unggah Kursus</h3>
-            <p>Data kursus berhasil diunggah</p>
+            <p>Data kursus anda berhasil diunggah</p>
             <button type="button" className="px-6 py-1.5 text-white bg-blue rounded mt-5" onClick={closePopUp}>
               Tutup
             </button>
